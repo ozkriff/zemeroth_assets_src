@@ -27,33 +27,29 @@ ids = [
     'dot',
     'selection',
     'white_hex',
-
-    # 'swordsman',  # TODO: actually, it's a "axeman" or something atm
-
-    # TODO:
     'hammerman',
     'spearman',
     'alchemist',
     'swordsman',
-    #
-    #
+
+    # TODO:
     # 'bomb_fire',
     # 'bomb_poison',
     #
     # 'test_button_bg',
 
     # new sprites
-    'eye',
+    'eye',  # TODO: rename to 'beholder'
     'snake',
     'grave_stone',
     'axeman',
-    # 'human',
 ]
 out_dir_name = 'png'
 input_file_name = 'atlas.svg'  # TODO: make configurable
 
 
-# cp png/{imp,imp_toxic,boulder,grass,shadow}.png ~/zemeroth/main/assets
+# ./export.py && cp png/* ~/zemeroth/main/assets
+
 
 def _main() -> None:
     os.makedirs(out_dir_name, exist_ok=True)
