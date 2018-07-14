@@ -1,0 +1,13 @@
+language: python
+
+python:
+  - 3.6
+
+addons:
+  apt:
+    packages:
+    - inkscape
+
+script:
+  - ./export.py
+
