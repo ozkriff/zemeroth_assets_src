@@ -16,7 +16,7 @@
    version="1.1"
    id="svg9115"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="mockup.svg">
+   sodipodi:docname="atlas.svg">
   <defs
      id="defs9109">
     <linearGradient
@@ -35,7 +35,7 @@
        inkscape:collect="always"
        id="linearGradient1200">
       <stop
-         style="stop-color:#000000;stop-opacity:0.91304348"
+         style="stop-color:#000000;stop-opacity:0.72602737"
          offset="0"
          id="stop1196" />
       <stop
@@ -162,7 +162,7 @@
        xlink:href="#linearGradient1200"
        id="radialGradient10388"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.28394308,0,0,0.10734434,13.216209,40.079196)"
+       gradientTransform="matrix(0.30571677,0,0,0.17442957,7.5690383,3.0456013)"
        cx="259.3573"
        cy="552.03796"
        fx="259.3573"
@@ -417,9 +417,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.53740115"
-     inkscape:cx="1532.9274"
-     inkscape:cy="1291.827"
+     inkscape:zoom="0.75999999"
+     inkscape:cx="646.86374"
+     inkscape:cy="1357.2816"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -454,7 +454,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2039,12 +2039,12 @@
          height="100%" />
       <ellipse
          inkscape:label="#path290"
-         ry="5.3176517"
-         rx="14.066047"
+         ry="8.6409369"
+         rx="15.144678"
          cy="99.337349"
          cx="86.858925"
          id="path290"
-         style="display:inline;opacity:0.91300001;fill:url(#radialGradient10388);fill-opacity:1;stroke-width:0.28394312" />
+         style="display:inline;opacity:0.91300001;fill:url(#radialGradient10388);fill-opacity:1;stroke-width:0.37557426" />
     </g>
     <g
        style="display:inline"
@@ -3226,7 +3226,7 @@
          id="tspan2360"
          x="307.29312"
          y="-36.943962"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
