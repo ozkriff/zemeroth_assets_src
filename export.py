@@ -22,6 +22,7 @@ ids = [
     'fire',
     'boulder',
     'bomb',
+    'demon_bomb',
     'blood',
     'spike_trap',
     'dot',

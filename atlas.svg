@@ -499,6 +499,94 @@
        fx="259.3573"
        fy="552.03796"
        r="49.538258" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3239"
+       id="radialGradient10388-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30571677,0,0,0.17442957,7.5690383,3.0456013)"
+       cx="259.3573"
+       cy="552.03796"
+       fx="259.3573"
+       fy="552.03796"
+       r="49.538258" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3239"
+       id="radialGradient1585"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30571677,0,0,0.17442957,7.5690383,3.0456013)"
+       cx="259.3573"
+       cy="552.03796"
+       fx="259.3573"
+       fy="552.03796"
+       r="49.538258" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3239"
+       id="radialGradient10388-26"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30571677,0,0,0.17442957,7.5690383,3.0456013)"
+       cx="259.3573"
+       cy="552.03796"
+       fx="259.3573"
+       fy="552.03796"
+       r="49.538258" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3239"
+       id="radialGradient1585-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30571677,0,0,0.17442957,7.5690383,3.0456013)"
+       cx="259.3573"
+       cy="552.03796"
+       fx="259.3573"
+       fy="552.03796"
+       r="49.538258" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3239"
+       id="radialGradient10388-20"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30571677,0,0,0.17442957,7.5690383,3.0456013)"
+       cx="259.3573"
+       cy="552.03796"
+       fx="259.3573"
+       fy="552.03796"
+       r="49.538258" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3239"
+       id="radialGradient1585-75"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30571677,0,0,0.17442957,7.5690383,3.0456013)"
+       cx="259.3573"
+       cy="552.03796"
+       fx="259.3573"
+       fy="552.03796"
+       r="49.538258" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1130"
+       id="radialGradient1672"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.72038716,0,0,0.78301943,246.81929,-313.71071)"
+       cx="259.3573"
+       cy="552.03796"
+       fx="259.3573"
+       fy="552.03796"
+       r="49.538258" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1130"
+       id="radialGradient1710"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.37714658,0,0,0.40993665,336.08295,-107.081)"
+       cx="259.3573"
+       cy="552.03796"
+       fx="259.3573"
+       fy="552.03796"
+       r="49.538258" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -507,9 +595,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.38"
-     inkscape:cx="850.57601"
-     inkscape:cy="1275.7585"
+     inkscape:zoom="0.53740115"
+     inkscape:cx="1184.2625"
+     inkscape:cy="812.57395"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2442,7 +2530,7 @@
          ry="14.804952" />
     </g>
     <rect
-       style="opacity:1;fill:#00ff00;fill-opacity:0.11363639;stroke:none;stroke-width:1.68249846;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       style="opacity:1;fill:none;fill-opacity:0.11363639;stroke:none;stroke-width:1.68249846;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect1487-5-8"
        width="33.866665"
        height="26.987499"
@@ -2553,7 +2641,7 @@
          style="font-size:4.93888903px;stroke-width:0.26458332">&lt; TODO: make  more angular</tspan></text>
     <g
        style="display:inline;opacity:1;stroke:none"
-       transform="matrix(0.05981054,0.50929728,-0.44300756,0.05202565,377.37262,-92.604494)"
+       transform="matrix(0.05981054,0.50929728,-0.44300756,0.05202565,446.69352,-114.30025)"
        id="blood_test_7"
        inkscape:label="#g12153-3">
       <use
@@ -2625,7 +2713,7 @@
     </g>
     <g
        style="display:inline;opacity:1;stroke:none"
-       transform="matrix(0.05981054,0.50929728,-0.44300756,0.05202565,412.82679,-92.604494)"
+       transform="matrix(0.05981054,0.50929728,-0.44300756,0.05202565,482.14769,-114.30025)"
        id="blood_test_7-9"
        inkscape:label="#g12153-3">
       <use
@@ -3192,6 +3280,15 @@
        xlink:href="#imp_summoner"
        id="use2134"
        transform="translate(358.55955,47.540269)"
+       width="100%"
+       height="100%" />
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#shadow"
+       id="use3132-8-9"
+       transform="translate(336.94321,-75.875539)"
        width="100%"
        height="100%" />
     <use
@@ -4112,6 +4209,15 @@
          style="display:inline;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.62169552px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#shadow"
+       id="use3132-8-92"
+       transform="translate(338.33549,-34.31116)"
+       width="100%"
+       height="100%" />
+    <use
        x="0"
        y="0"
        xlink:href="#spearman"
@@ -4340,6 +4446,72 @@
        xlink:href="#swordsman-7"
        id="use3130"
        transform="translate(432.8422,-83.043501)"
+       width="100%"
+       height="100%" />
+    <g
+       style="display:inline;stroke:none"
+       transform="matrix(0.321564,0,0,0.27970951,-11.487396,123.98285)"
+       id="demon_bomb"
+       inkscape:label="#g4634-3">
+      <use
+         style="display:inline;stroke:none"
+         x="0"
+         y="0"
+         xlink:href="#rect1487-5"
+         id="use10315-36-6-6"
+         transform="matrix(3.1098009,0,0,3.5751378,336.25349,424.39297)"
+         width="100%"
+         height="100%" />
+      <ellipse
+         inkscape:label="#path290"
+         ry="38.789421"
+         rx="35.686729"
+         cy="118.54568"
+         cx="433.65701"
+         id="path290-9"
+         style="display:inline;opacity:1;fill:url(#radialGradient1672);fill-opacity:1;stroke-width:1.2215054" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4638-7-6-7"
+         d="m 438.5221,117.87156 6.88866,-1.74313 0.74968,9.24619 -6.90295,8.24767 2.79839,-8.67955 -7.11963,0.78172 z"
+         style="display:inline;fill:#800080;fill-rule:evenodd;stroke:none;stroke-width:0.79265565px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4638-7-6-7-9"
+         d="m 430.77149,120.34548 2.48346,2.681 -2.82967,4.99738 6.40864,1.18612 -0.99862,4.84962 -8.34032,-0.72161 -7.06696,-6.66615 -0.8612,-14.46975 3.90806,7.33699 z"
+         style="display:inline;fill:#800080;fill-rule:evenodd;stroke:none;stroke-width:0.79265565px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4638-7-6-7-9-1"
+         d="m 430.75743,103.35551 10.20409,2.66961 4.83693,7.11655 -9.05188,0.0983 -2.36678,7.35097 -12.12682,-10.59618 z"
+         style="display:inline;fill:#800080;fill-rule:evenodd;stroke:none;stroke-width:0.79265565px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <ellipse
+         inkscape:label="#path290"
+         ry="20.307549"
+         rx="18.683187"
+         cy="119.21955"
+         cx="433.89868"
+         id="path290-9-7"
+         style="display:inline;opacity:1;fill:url(#radialGradient1710);fill-opacity:1;stroke:none;stroke-width:0.63949859" />
+    </g>
+    <use
+       style="display:inline"
+       x="0"
+       y="0"
+       xlink:href="#shadow"
+       id="use3132-8-6"
+       transform="matrix(0.71651762,0,0,0.71651762,427.87776,-22.119972)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#bomb-3"
+       id="use1571"
+       transform="translate(417.51718,-99.011386)"
        width="100%"
        height="100%" />
   </g>
