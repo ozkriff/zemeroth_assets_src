@@ -617,9 +617,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76"
-     inkscape:cx="785.47683"
-     inkscape:cy="1229.1103"
+     inkscape:zoom="0.53740115"
+     inkscape:cx="1007.9397"
+     inkscape:cy="1007.9793"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2216,7 +2216,7 @@
          sodipodi:nodetypes="cccccc" />
     </g>
     <rect
-       style="opacity:1;fill:none;fill-opacity:0.11818183;stroke:none;stroke-width:1.88477504;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       style="opacity:1;fill:#ff00ff;fill-opacity:0.11818183;stroke:none;stroke-width:1.88477504;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect1487-5"
        width="33.866665"
        height="33.866665"
