@@ -431,9 +431,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="2354.5622"
-     inkscape:cy="1160.3418"
+     inkscape:zoom="1.0000001"
+     inkscape:cx="772.40233"
+     inkscape:cy="1136.1964"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1571,15 +1571,6 @@
        xlink:href="#shadow"
        id="use3132-48-0"
        transform="translate(440.02715,-138.55331)"
-       width="100%"
-       height="100%" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       xlink:href="#shadow"
-       id="use3132-48"
-       transform="translate(308.29662,-118.4842)"
        width="100%"
        height="100%" />
     <use
@@ -3198,23 +3189,6 @@
        width="9.1176014"
        id="rect14531-6"
        style="display:inline;opacity:1;fill:none;fill-opacity:0.12727272;stroke:#ffff00;stroke-width:2.18475318;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       xlink:href="#shadow"
-       id="use3132-4"
-       transform="translate(468.34865,-220.09609)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#imp_summoner"
-       id="use2134"
-       transform="translate(344.15373,-54.79723)"
-       width="100%"
-       height="100%" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -3890,18 +3864,6 @@
          id="path4665-7-3-6-3-7-7-6"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.37624979px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55321878"
-         x="500.74579"
-         y="44.558796"
-         id="text1930"
-         transform="scale(0.93265257,1.0722106)"><tspan
-           sodipodi:role="line"
-           id="tspan1928"
-           x="500.74579"
-           y="44.558796"
-           style="stroke-width:0.55321878">&lt; MAKE BOMB ANGULAR</tspan></text>
     </g>
     <g
        id="spearman"
@@ -4821,15 +4783,6 @@
        xlink:href="#swordsman"
        id="use2136"
        transform="translate(505.93942,-83.326878)"
-       width="100%"
-       height="100%" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       xlink:href="#swordsman"
-       id="use2136-3"
-       transform="translate(433.31016,-64.947343)"
        width="100%"
        height="100%" />
     <g
@@ -6474,5 +6427,90 @@
        transform="translate(288.80942,10.476688)"
        width="100%"
        height="100%" />
+    <g
+       style="display:inline;opacity:1;stroke:none"
+       transform="matrix(0.05981054,0.50929728,-0.44300756,0.05202565,423.47467,5.9538396)"
+       id="blood-7"
+       inkscape:label="#g12153-3">
+      <use
+         style="display:inline;stroke:none"
+         x="0"
+         y="0"
+         xlink:href="#rect1487-5"
+         id="use10315-36-2-3-53"
+         transform="matrix(0.22745022,-2.2265897,1.9367787,0.26148488,636.51679,634.5247)"
+         width="100%"
+         height="100%" />
+      <g
+         id="g13812-5"
+         style="opacity:0.54000005"
+         transform="matrix(0.81135594,0,0,0.81135594,90.725347,102.05065)">
+        <path
+           inkscape:transform-center-y="5.4370207e-06"
+           inkscape:transform-center-x="-3.9377449e-06"
+           d="M 40.156183,41.491797 16.200881,46.368364 -1.3537334e-7,28.060748 7.7544199,4.876565 31.709721,-1.7108712e-6 47.910603,18.307615 Z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="true"
+           sodipodi:arg2="1.369971"
+           sodipodi:arg1="0.84637223"
+           sodipodi:r2="21.171394"
+           sodipodi:r1="24.446623"
+           sodipodi:cy="23.184181"
+           sodipodi:cx="23.955301"
+           sodipodi:sides="6"
+           id="path2550-36"
+           style="display:inline;opacity:1;vector-effect:none;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:1.80760324;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star"
+           transform="matrix(0.12883968,-1.2612567,0.37153273,0.05016071,464.95104,577.43766)" />
+        <path
+           inkscape:transform-center-y="2.7498262e-06"
+           inkscape:transform-center-x="-3.6066559e-06"
+           d="M 40.156183,41.491797 16.200881,46.368364 -1.3537334e-7,28.060748 7.7544199,4.876565 31.709721,-1.7108712e-6 47.910603,18.307615 Z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="true"
+           sodipodi:arg2="1.369971"
+           sodipodi:arg1="0.84637223"
+           sodipodi:r2="21.171394"
+           sodipodi:r1="24.446623"
+           sodipodi:cy="23.184181"
+           sodipodi:cx="23.955301"
+           sodipodi:sides="6"
+           id="path2550-36-1"
+           style="display:inline;opacity:1;vector-effect:none;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:1.80760324;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star"
+           transform="matrix(0.10024179,-0.98130193,0.28906549,0.03902679,476.53641,546.61431)" />
+        <path
+           inkscape:transform-center-y="1.9271146e-06"
+           inkscape:transform-center-x="-3.1547349e-06"
+           d="M 40.156183,41.491797 16.200881,46.368364 -1.3537334e-7,28.060748 7.7544199,4.876565 31.709721,-1.7108712e-6 47.910603,18.307615 Z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="true"
+           sodipodi:arg2="1.369971"
+           sodipodi:arg1="0.84637223"
+           sodipodi:r2="21.171394"
+           sodipodi:r1="24.446623"
+           sodipodi:cy="23.184181"
+           sodipodi:cx="23.955301"
+           sodipodi:sides="6"
+           id="path2550-36-1-2"
+           style="display:inline;opacity:1;vector-effect:none;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:1.80760324;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star"
+           transform="matrix(0.05418793,-0.53046464,0.1562608,0.0210968,486.06685,553.6065)" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="132.80687"
+       y="20.736256"
+       id="text1930"><tspan
+         sodipodi:role="line"
+         id="tspan1928"
+         x="132.80687"
+         y="20.736256"
+         style="stroke-width:0.26458332">&lt; MAKE BOMB ANGULAR</tspan></text>
   </g>
 </svg>
