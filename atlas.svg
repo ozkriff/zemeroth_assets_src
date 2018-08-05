@@ -377,10 +377,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="1130.2531"
-     inkscape:cy="1243.7429"
+     inkscape:cx="1650.4646"
+     inkscape:cy="904.85557"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="shadow"
      showgrid="false"
      inkscape:window-width="1858"
      inkscape:window-height="1058"
@@ -4491,7 +4491,7 @@
          height="100%" />
       <path
          sodipodi:type="star"
-         style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.10454544;stroke:none;stroke-width:0.47826168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:0.137;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.47826168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path2316-0-4"
          sodipodi:sides="6"
          sodipodi:cx="500.33911"
@@ -4508,7 +4508,7 @@
          transform="matrix(0.95142011,0,0,0.53497484,-389.09473,120.55271)" />
       <path
          sodipodi:type="star"
-         style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.10454544;stroke:none;stroke-width:0.47826168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="display:inline;opacity:0.14;vector-effect:none;fill:#000000;fill-opacity:0.92694062;stroke:none;stroke-width:0.47826168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path2316-0"
          sodipodi:sides="6"
          sodipodi:cx="500.33911"
@@ -6082,13 +6082,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="132.80687"
-       y="20.736256"
+       x="135.98187"
+       y="21.000839"
        id="text1930"><tspan
          sodipodi:role="line"
          id="tspan1928"
-         x="132.80687"
-         y="20.736256"
+         x="135.98187"
+         y="21.000839"
          style="stroke-width:0.26458332">&lt; MAKE BOMB ANGULAR</tspan></text>
     <path
        style="fill:#008000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
