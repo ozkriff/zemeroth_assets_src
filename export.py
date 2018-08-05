@@ -22,7 +22,9 @@ ids = [
     'fire',
     'boulder',
     'bomb',
-    'demon_bomb',
+    'bomb_fire',
+    'bomb_poison',
+    'bomb_demonic',
     'blood',
     'spike_trap',
     'dot',
@@ -34,9 +36,6 @@ ids = [
     'swordsman',
 
     # TODO:
-    # 'bomb_fire',
-    # 'bomb_poison',
-    #
     # 'test_button_bg',
 
     # new sprites
