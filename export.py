@@ -62,7 +62,7 @@ def _write_str_to_file(filename: str, hash: str) -> None:
 
 def _update_hash_file(input_file_name: str, out_dir_name: str) -> None:
     hash = _file_hash(input_file_name)
-    _write_str_to_file(f'{out_dir_name}/hash', hash)
+    _write_str_to_file(f'{out_dir_name}/hash.md5', hash)
 
 
 # ./export.py && cp png/* ~/zemeroth/main/assets
