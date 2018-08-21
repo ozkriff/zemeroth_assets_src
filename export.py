@@ -6,6 +6,7 @@ TODO: document it.
 
 import subprocess
 import os
+import hashlib
 
 
 # TODO: extract to some json (?) config
@@ -48,11 +49,28 @@ out_dir_name = 'png'
 input_file_name = 'atlas.svg'  # TODO: make configurable
 
 
+def _file_hash(filename: str) -> str:
+    with open(filename, mode='rb') as f:
+        data = f.read()
+        return hashlib.md5(data).hexdigest()
+
+
+def _write_str_to_file(filename: str, hash: str) -> None:
+    with open(filename, mode='w') as f:
+        f.write(hash + '\n')
+
+
+def _update_hash_file(input_file_name: str, out_dir_name: str) -> None:
+    hash = _file_hash(input_file_name)
+    _write_str_to_file(f'{out_dir_name}/hash', hash)
+
+
 # ./export.py && cp png/* ~/zemeroth/main/assets
 
 
 def _main() -> None:
     os.makedirs(out_dir_name, exist_ok=True)
+    _update_hash_file(input_file_name, out_dir_name)
     for id in ids:
         cmd = [
             'inkscape',
