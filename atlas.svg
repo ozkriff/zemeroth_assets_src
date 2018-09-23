@@ -195,11 +195,11 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="2629.6618"
-     inkscape:cy="364.9882"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="792.83136"
+     inkscape:cy="91.851115"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="blood"
      showgrid="false"
      inkscape:window-width="1858"
      inkscape:window-height="1058"
@@ -5516,7 +5516,7 @@
       <g
          id="g13812-5"
          style="opacity:0.54000005"
-         transform="matrix(0.81135594,0,0,0.81135594,78.469945,103.35225)">
+         transform="matrix(1.4796172,0.09022209,0.06826411,0.82057229,-280.35347,54.907429)">
         <path
            inkscape:transform-center-y="5.4370207e-06"
            inkscape:transform-center-x="-3.9377449e-06"
