@@ -35,14 +35,11 @@ ids = [
     'alchemist',
     'swordsman',
 
-    # TODO:
-    # 'test_button_bg',
-
-    # new sprites
-    'eye',  # TODO: rename to 'beholder'
-    'snake',
-    'grave_stone',
-    'axeman',
+    # # new sprites
+    # 'eye',
+    # 'snake',
+    # 'grave_stone',
+    # 'axeman',
 ]
 out_dir_name = 'png'
 input_file_name = 'atlas.svg'  # TODO: make configurable
