@@ -16,7 +16,9 @@ ids = [
     'imp',
     'imp_toxic',
     'imp_summoner',
+    'imp_summoner_summon',
     'imp_bomber',
+    'imp_bomber_throw',
     'grass',
     'shadow',
     'fire',
@@ -37,7 +39,10 @@ ids = [
     'hammerman',
     'spearman',
     'alchemist',
+    'alchemist_throw',
+    'alchemist_heal',
     'swordsman',
+    'swordsman_rage',
 
     # # new sprites
     # 'eye',
