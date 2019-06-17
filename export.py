@@ -38,11 +38,15 @@ ids = [
     'white_hex',
     'hammerman',
     'spearman',
+    'elite_spearman',
+    'heavy_spearman',
     'alchemist',
     'alchemist_throw',
     'alchemist_heal',
     'swordsman',
-    'swordsman_rage',
+    'elite_swordsman',
+    'elite_swordsman_rage',
+    'heavy_swordsman',
 
     # # new sprites
     # 'eye',
