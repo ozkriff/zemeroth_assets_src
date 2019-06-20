@@ -27,6 +27,7 @@ ids = [
     'bomb_fire',
     'bomb_poison',
     'bomb_demonic',
+    'explosion_ground_mark',
     'blood',
     'slash',
     'smash',
