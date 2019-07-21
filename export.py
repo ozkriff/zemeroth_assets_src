@@ -54,6 +54,8 @@ ids = [
     'elite_swordsman',
     'elite_swordsman_rage',
     'heavy_swordsman',
+    'effect_poison',
+    'effect_stun',
 
     # # new sprites
     # 'eye',
