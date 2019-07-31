@@ -195,11 +195,11 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.31371"
-     inkscape:cx="91.42263"
+     inkscape:zoom="16"
+     inkscape:cx="101.42263"
      inkscape:cy="1136.2264"
      inkscape:document-units="mm"
-     inkscape:current-layer="effect_poison"
+     inkscape:current-layer="effect_possession"
      showgrid="false"
      inkscape:window-width="1848"
      inkscape:window-height="1058"
@@ -8798,6 +8798,27 @@
          d="m 19.801329,-2.2444329 0.899547,0.1416108 0.141011,-0.8440365 -0.633602,-0.4451672 -0.408941,0.5727705 -3.523055,1.5876002 -0.654759,-0.1846413 -0.163584,0.93002935 0.740253,0.25603874 0.388604,-0.53806442 z"
          id="path2080-3-5"
          sodipodi:nodetypes="ccccccccccc" />
+    </g>
+    <g
+       transform="translate(13.923177,-0.01419184)"
+       style="display:inline;fill:#ffff00"
+       id="effect_possession"
+       inkscape:label="#g2044">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(-0.26458332,11.906249)"
+         id="use2040-7-6"
+         xlink:href="#rect1487-5-3"
+         y="0"
+         x="0"
+         style="fill:#ffff00" />
+      <path
+         inkscape:connector-curvature="0"
+         style="display:inline;fill:#ffff78;fill-opacity:1;stroke:#635000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 17.537799,-2.9633531 -0.750218,2.75126121 3.155219,-3.67628101 -2.021157,-0.041933 1.562301,-2.386574 -2.435367,0.00227 -1.165352,3.3934328 z"
+         id="path2080-3-53"
+         sodipodi:nodetypes="cccccccc" />
     </g>
   </g>
 </svg>

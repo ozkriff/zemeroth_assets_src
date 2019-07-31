@@ -56,6 +56,7 @@ ids = [
     'heavy_swordsman',
     'effect_poison',
     'effect_stun',
+    'effect_possession',
 
     # # new sprites
     # 'eye',
