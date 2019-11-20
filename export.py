@@ -37,8 +37,8 @@ ids = [
     'dot',
     'selection',
     'white_hex',
-    'hammerman',
-    'heavy_hammerman',
+    'hammerer',
+    'heavy_hammerer',
     'spearman',
     'elite_spearman',
     'heavy_spearman',
@@ -58,6 +58,24 @@ ids = [
     'effect_stun',
     'effect_possession',
 
+    'icon_ability_club',
+    'icon_ability_knockback',
+    'icon_ability_jump',
+    'icon_ability_dash',
+    'icon_ability_rage',
+    'icon_ability_heal',
+    'icon_ability_bomb_push',
+    
+    # TODO: ???
+    'icon_ability_bomb',
+    'icon_ability_bomb_fire',
+    # 'icon_ability_bomb_poison',
+    # 'icon_ability_bomb_demonic',
+    # 'icon_ability_summon',
+    # 'icon_ability_bloodlust',
+
+    'icon_info',
+
     # # new sprites
     # 'eye',
     # 'snake',
@@ -65,7 +83,8 @@ ids = [
     # 'axeman',
 ]
 out_dir_name = 'png'
-input_file_name = 'atlas.svg'  # TODO: make configurable
+# input_file_name = 'atlas.svg'  # TODO: make configurable
+input_file_name = 'atlas.icons_test.svg'  # TODO: make configurable
 
 
 # ./export.py && cp png/* ~/zemeroth/main/assets
